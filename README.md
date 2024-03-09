@@ -2,7 +2,7 @@
 ## Data Science and Analytics Portfolio
 I'm interested in Analytics. 
 
-My Github: ![https://github.com/sahil-kabir](https://github.com/sahil-kabir)
+My Github: [https://github.com/sahil-kabir](https://github.com/sahil-kabir)
 
 Here, you'll find my projects in:
  - Data Visualizations
