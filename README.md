@@ -25,8 +25,12 @@ Here, you'll find my projects in:
 
 ![](Images/dashboard.png)
 
+## CIFAR10 Image Classifier | Python, Tensorflow/Keras, Matplotlib
+ - Designed a convolutional neural network to classify images of CIFAR10 dataset with 78% accuracy
+ - Analyzed model performance on training and validation data over epochs using Matplotlib line charts
+
+![](Images/CV.png)
+
 ## YFinance Data Ingestion Pipeline | Python, MySQL, Pandas, PyMySQL/SQLalchemy
  -	Utilized SELECT/UPDATE/CREATE/INSERT operations to import stock data into **MySQL database**
  -	Transformed Pandas DataFrame object for insertion to database with PyMySQL/SQLalchemy methods
-
-![](Images/CV.png)
