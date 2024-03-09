@@ -14,19 +14,19 @@ Trivago Booking Cancellation Outcome Classifier | Python, Scikit-learn, XGBoost,
  -	Utilized **GridSearchCV** to optimize hyper-parameters on **XGBoost** model
  -	*Visualized performance metrics* with Matplotlib: 88.2% precision, 80.2% recall, 86.9% ROC AUC
 
-![](https://github.com/sahil-kabir/sahil-kabir.github.io/blob/main/Images/3d.png)
-![](https://github.com/sahil-kabir/sahil-kabir.github.io/blob/main/Images/bar.png)
-![](https://github.com/sahil-kabir/sahil-kabir.github.io/blob/main/Images/pipeline.png)
-![](https://github.com/sahil-kabir/sahil-kabir.github.io/blob/main/Images/roc.png)
+![](Images/3d.png)
+![](Images/bar.png)
+![](Images/pipeline.png)
+![](Images/roc.png)
 
 Interactive Dashboard – Greenhouse Gas Emission in Alberta | Python, HvPlot, Panel, Pandas/Numpy
  -	Implemented **data pipelines** to instantiate widgets for interactive charts displaying filtered data
  -	Displayed visualization objects using Panel dashboard template class
 
-![](https://github.com/sahil-kabir/sahil-kabir.github.io/blob/main/Images/dashboard.png)
+![](Images/dashboard.png)
 
 YFinance Data Ingestion Pipeline | Python, MySQL, Pandas, PyMySQL/SQLalchemy
  -	Utilized SELECT/UPDATE/CREATE/INSERT operations to import stock data into **MySQL database**
  -	Transformed Pandas DataFrame object for insertion to database with PyMySQL/SQLalchemy methods
 
-![](https://github.com/sahil-kabir/sahil-kabir.github.io/blob/main/Images/CV.png)
+![](Images/CV.png)
