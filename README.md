@@ -4,7 +4,7 @@ I'm interested in Analytics.
 
 Here, you'll find my projects in:
  - Data Visualizations
- - Machine Learning models
+ - Machine Learning Models
  - Deep Learning (CNNs)
  - Data Engineering / Databases
 
