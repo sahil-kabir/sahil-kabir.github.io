@@ -15,7 +15,7 @@ Trivago Booking Cancellation Outcome Classifier | Python, Scikit-learn, XGBoost,
  -	*Visualized performance metrics* with Matplotlib: 88.2% precision, 80.2% recall, 86.9% ROC AUC
 
 ![](Images/3d.png)
-![](Images/bar.png)
+![](Images/bar1.png)
 ![](Images/pipeline.png)
 ![](Images/roc.png)
 
