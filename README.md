@@ -1,5 +1,5 @@
 # Sahil Kabir
-## data science and analytics portfolio
+## Data Science and Analytics Portfolio
 I'm interested in Analytics. 
 
 Here, you'll find my projects in:
