@@ -1,6 +1,6 @@
 # Sahil Kabir
 ## Data Science and Analytics Portfolio
-I'm interested in Analytics. 
+I'm interested in Data Science, Analytics, and Stats. 
 
 My Github: [https://github.com/sahil-kabir](https://github.com/sahil-kabir)
 
